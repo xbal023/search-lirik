@@ -9,10 +9,5 @@
   },
   "keywords": [],
   "author": "bolaxd",
-  "license": "ISC",
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
-    "node-fetch": "^3.3.0",
-    "pretty": "^2.0.0"
-  }
+  "license": "MIT"
 }

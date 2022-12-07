@@ -46,5 +46,5 @@ function laguBaratGet(html, page = 1) {
 	})
 }
 
-// console.log(await laguBaratSearch("lovely"));
+console.log(await laguBaratSearch("maroon"));
 // console.log(await laguBaratGet('https://www.lirikterjemahan.id/2015/10/lirik-passenger-fools-gold-terjemahan.html'));
