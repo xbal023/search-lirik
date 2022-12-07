@@ -1,0 +1,18 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "pembuatan scrape belajarr",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bolaxd",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.0",
+    "pretty": "^2.0.0"
+  }
+}
